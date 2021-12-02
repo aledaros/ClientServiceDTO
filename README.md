@@ -14,7 +14,7 @@ Gruppo 3
 
 ## Events
 
-CreateClientEvent -> Evento di creazione Cliente (con Id autogenerato dal database)
+CreateClientEvent -> Evento di creazione Cliente
 
 UpdateClientEvent -> Evento di modifica Cliente
 
