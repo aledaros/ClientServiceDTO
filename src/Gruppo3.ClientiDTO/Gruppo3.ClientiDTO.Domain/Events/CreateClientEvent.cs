@@ -8,6 +8,7 @@ namespace Gruppo3.ClientiDTO.Domain.Events
 {
     public class CreateClientEvent
     {
+        public int Id { get; set; }
         public string Name { get; set; }
         public string Surname { get; set; }
         public string Email { get; set; }
